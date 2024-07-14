@@ -13,3 +13,19 @@
 .gap-16 {
   gap: 16px;
 }
+
+.text-2xl {
+  font: var(--heading-lg);
+}
+
+.text-xl {
+  font: var(--heading-md);
+}
+
+.text-lg {
+  font: var(--heading-sm);
+}
+
+.text-sm {
+  font: var(--text-sm);
+}
